@@ -1,0 +1,9 @@
+/*
+* David Lusseau 
+* 29 Mar 2022
+* in this folder you will find the (renamed) Porpoise.java altered to include the three condition mediation functions
+* the original file can be found in DEPONS/src/dk/au/bios/porpoise/ in the original DEPONS 
+* I would suggest simply altering the function in your DEPONS implementation
+* the alterations are in the function deter (lines 1230-1245) in all three files
+* details of the functions can be found in the paper accompanying this code
+*/
