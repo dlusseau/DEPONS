@@ -5,7 +5,10 @@ David Lusseau
 We use this fork to present the code alteration to DEPONS proposed in Lusseau, Kindt-Larsen and van Beest (2022) Emergent interactions in the management of multiple threats to the conservation objective of harbour porpoises [url to come]. 
 as well as deposit the R code for the statistical modelling carried out on the simulation outcomes (new folder on this fork named "outcome_analyses"). 
 
-the simulation outcomes used in the subsequent statistical analyses can be found at doi:10.11583/DTU.19455554
+The simulation outcomes for the scenarios described in the paper and used in the subsequent statistical analyses can be found at doi:10.11583/DTU.19455554
+
+Alterations to the DEPONS code to introduce condition mediation of avoidance can be found in the folder "CM_porpoise". THe folder contains 3 versions of the porpoise.java file with altered avoidance response as described in equations 2-4 of the paper.
+
 
 _Therefore_, this fork is not synced with the DEPONS master link.
 ###########################################################################
